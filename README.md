@@ -22,4 +22,9 @@
 
 ## Function
 > Show problems of designed cities by users
-<img src="https://github.com/TeamRGD/Project-UDT/assets/64942546/d0cf8735-aecf-4885-b90c-7e424a67c239" width="640" height="360"/>
+
+## Screenshot
+![image](https://github.com/CuriHuS/UrbanDesignTool/assets/64942546/2eac8338-ffeb-4b5c-8140-d84933fce71e)
+![image](https://github.com/CuriHuS/UrbanDesignTool/assets/64942546/c6d94ff8-fef0-4d23-b343-1a102aec0916)
+![image](https://github.com/CuriHuS/UrbanDesignTool/assets/64942546/60d3ec5a-fe75-49f4-8906-d15e6ab70c71)
+
